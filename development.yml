@@ -10,6 +10,7 @@
     - include: tasks/imagemagick.yml
     - include: tasks/graphviz.yml
     - include: tasks/java.yml
+    - include: tasks/nodejs.yml
     - include: tasks/sqlite.yml
     - include: tasks/postgres.yml
     - include: tasks/zsh.yml

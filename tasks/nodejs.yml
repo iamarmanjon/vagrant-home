@@ -1,0 +1,4 @@
+---
+- name: "Installing nodejs"
+  apt: name=nodejs state=latest
+  sudo: True
